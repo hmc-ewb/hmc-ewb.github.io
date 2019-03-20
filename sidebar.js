@@ -31,6 +31,7 @@
 						</header>\
 						<ul class="contact">\
 							<li class="fa-envelope-o"><a>ewb-leadership-l@g.hmc.edu</a></li>\
+							<li class="fa-envelope-o"><a href="index2.html">INDEX2</a></li>\
 							<li class="fa-envelope-o"><a target="_blank" href="https://groups.google.com/a/g.hmc.edu/forum/#!forum/ewb-l/join">Join our mailing list (hmc emails)</a></li>\
 							<li class="fa-facebook"><a href="https://www.facebook.com/hmcEWB/">Facebook </a></li><br />\
 							<li class="fa-home">HMC-EWB <br> Department of Engineering <br> 301 Platt Blvd.<br />\
