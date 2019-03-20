@@ -19,6 +19,7 @@
 								</ul>\
 							</li>\
 							<li><a href="team.html">Our Team</a></li>\
+							<li><a href="calendar.html">Calendar</a></li>\
 							<li><a href="donate.html">Donate</a></li>\
 						</ul>\
 					</nav>\
@@ -30,15 +31,12 @@
 						</header>\
 						<ul class="contact">\
 							<li class="fa-envelope-o"><a>ewb-leadership-l@g.hmc.edu</a></li>\
+							<li class="fa-envelope-o"><a target="_blank" href="https://groups.google.com/a/g.hmc.edu/forum/#!forum/ewb-l/join">Join our mailing list (hmc emails)</a></li>\
 							<li class="fa-facebook"><a href="https://www.facebook.com/hmcEWB/">Facebook </a></li><br />\
 							<li class="fa-home">HMC-EWB <br> Department of Engineering <br> 301 Platt Blvd.<br />\
 							Claremont, CA 91711</li>\
 						</ul>\
 					</section>\
-					<text>BEFORE</text>\
-					<div w3-include-html="sidebar.html">YOLO</div>\
-					<div id="headertest">ORIGINAL</div>\
-					<text>AFTER</text>\
 				<!-- Footer -->\
 					<footer id="footer">\
 						<p class="copyright">&copy; Harvey Mudd College Engineers Without Borders. All rights reserved. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>\
